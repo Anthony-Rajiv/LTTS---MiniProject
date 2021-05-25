@@ -10,4 +10,4 @@ To aid with this, the MRT is given a brief description of the case and a copy of
 The MRT has an internal process that is used to examine cases in a predictable, sustainable, and repeatable manner. This process consists of two major phases, which correspond to the primary requirements from the CCD: Detection (what malware exists?), and behavior analysis (what does that malware do?)
 
 A flow chart detailing the MRT’s interaction with CCD, processing of the case, and reporting of results is shown below
-![](1.png)
+![](Flowchart of Malware Analysis Process .png)

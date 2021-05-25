@@ -11,3 +11,16 @@ The MRT has an internal process that is used to examine cases in a predictable, 
 
 A flow chart detailing the MRT’s interaction with CCD, processing of the case, and reporting of results is shown below
 ![](Flowchart_of_Malware_Analysis_Process.png)
+
+## Features
+### RELIABILITY
+Reliability is important to the Malware Research Team and its customers, because providing accurate information to Cyber Crime Department will help to ensure that is justice is served. 
+Some of the problems addressed here are 
+* Ability of system components to be validated.
+* Labor-intensity of process.
+* Privacy of case-related data.
+* Integrity of reported results.
+* Frequency and severity of human errors.
+
+### SCALABILITY
+Scalability is a far more important problem, because a more scalable system would allow a greater number of malware-related cases to be processed by the MRT, without the need for additional personnel with the expertise required for such investigation. Additionally, a system that can scale via hardware instead of via added labor will allow case completion time to become more predictable and consistent.

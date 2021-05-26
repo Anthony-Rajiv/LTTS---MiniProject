@@ -17,7 +17,7 @@ A flow chart detailing the MRT’s interaction with CCD, processing of the case,
 Reliability is important to the Malware Research Team and its customers, because providing accurate information to Cyber Crime Department will help to ensure that is justice is served. 
 Some of the problems addressed here are 
 * Ability of system components to be validated.
-* Labor-intensity of process.
+* Reduce Labor-intensity of process.
 * Privacy of case-related data.
 * Integrity of reported results.
 * Frequency and severity of human errors.

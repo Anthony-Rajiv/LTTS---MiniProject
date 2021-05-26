@@ -27,6 +27,30 @@ Scalability is a far more important problem, because a more scalable system woul
 
 ## Cost
 
+## 4 W's and 1H
+### WHO
+The Cyber Crime Department(CCD) who have an interest in finding out which malware exists on the computer and what the role of that malware is, If malware is suspected to have played a role in any Cyber Crime.
+
+### WHAT
+We are going to design an Automated Malware Analysis System by using the above Trojan Model. The Malware Research Team (MRT) operates as a plug-in step to the Cyber Crime Department(CCD) process of investigating a computer based crime. A good way to look at the scope of work done by the MRT is to look at the malware analysis process first as a *Black Box*, and examine the inputs and outputs of the system before analyzing the process in detail.
+
+### WHEN
+During a Cyber attack, If malware is suspected to have played a role in the crime.
+
+### WHERE 
+It's a online submission-based website which will accept uploaded malware, execute this malware, but would run on local hardware in a secure and controlled environment using virtualization and Automation, and then return details about how the malware affected its environment while it executed, and then read and send the results afterwards.
+
+### HOW
+Two things need to be provided by the end-user who is utilizing the MRT:
+* *Case description* – background information, official write-ups, suspected attack vectors, personnel interviews (if available).
+* *Case materials* – image or other bit-for-bit copy of affected disk drives, or any other digital media needing analysis.
+In return, the MRT provides the following:
+* *Case report* – summary of findings (what malware, effects of malware) as well as detailed descriptions of each malware found.
+
+## System Context Diagram
+![](System_Context_Diagram.png)
 
 ## SWOT Analysis
 ![](SWOT.png)
+
+

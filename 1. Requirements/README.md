@@ -26,6 +26,7 @@ Some of the problems addressed here are
 Scalability is a far more important problem, because a more scalable system would allow a greater number of malware-related cases to be processed by the MRT, without the need for additional personnel with the expertise required for such investigation. Additionally, a system that can scale via hardware instead of via added labor will allow case completion time to become more predictable and consistent.
 
 ## Cost
+As it is a Prototype, we will provide it for free until a stable version is established.
 
 ## 4 W's and 1H
 ### WHO
@@ -53,6 +54,49 @@ In return, the MRT provides the following:
 ## SWOT Analysis
 ![](SWOT.png)
 
-## High Level Requirements
+##Detailed Requirements
+### High Level Requirements
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|HR_01|Enhanced Ability of system components to be validated.|Implemented|
+|HR_02|Reduce Labor-intensity of process.|Implemented|
+|HR_03|Maintained Privacy of case-related data.|Implemented|
+|HR_04|Safeguard Integrity of reported results.|Implemented|
+|HR_05|Decrease Frequency and severity of human errors.|Implemented|
+|HR_06|Reverse Engineering and Code Analysis|Future|
+|HR_07||Future|
 
-## Low Level Requirements
+### Low Level Requirements
+|      ID          |Description                          |  HLR_ID  |Status               |
+|----------------|-------------------------------|----------|-----------------------------|
+|LR_01|Multiple Scanning Tools|HR_01|Implemented|
+|LR_02|Virtualization|HR_01|Implemented|
+|LR_03|Virtual Disks|HR_01|Implemented|
+|LR_04|Virtualization|HR_03|Implemented|
+|LR_05|virtualization|HR_04|Implemented|
+|LR_06|Square Meter|HR_02|Implemented|
+|LR_07|Square Centimeter|HR_02|Implemented|
+|LR_08|Square Foot|HR_02|Implemented|
+|LR_09|MSquare Inch|HR_02|Implemented|
+|LR_10|Square Yard|HR_02|Implemented|
+|LR_11|Cubic Meter|HR_03|Implemented|
+|LR_12|Cubic Centimeter|HR_03|Implemented|
+|LR_13|Litre|HR_03|Implemented|
+|LR_14|Millilitre|HR_03|Implemented|
+|LR_15|Gallon (imperial)|HR_03|Implemented|
+|LR_16|Kilogram|HR_04|Implemented|
+|LR_17|Gram|HR_04|Implemented|
+|LR_18|Ounce|HR_04|Implemented|
+|LR_19|Tonne (metric)|HR_04|Implemented|
+|LR_20|Pound|HR_04|Implemented|
+|LR_21|Meter per Second|HR_05|Implemented|
+|LR_22|Kilometer per Hour|HR_05|Implemented|
+|LR_23|Miles per Hour|HR_05|Implemented|
+|LR_24|Foot per Second|HR_05|Implemented|
+|LR_25|Knot|HR_05|Implemented|
+|LR_26|Hour|HR_06|Future|
+|LR_27|Minute|HR_06|Future|
+|LR_28|Second|HR_06|Future|
+|LR_29|Celcius|HR_07|Future|
+|LR_30|Farenheit|HR_07|Future|
+|LR_31|Kelvin|HR_07|Future|

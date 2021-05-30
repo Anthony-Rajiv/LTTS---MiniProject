@@ -58,11 +58,11 @@ In return, the MRT provides the following:
 ### High Level Requirements
 |      ID          |Description                          |Status                         |
 |----------------|-------------------------------|-----------------------------|
-|HR_01|Enhanced Ability of system components to be validated.|Implemented|
-|HR_02|Reduce Labor-intensity of process.|Implemented|
-|HR_03|Maintained Privacy of case-related data.|Implemented|
-|HR_04|Safeguard Integrity of reported results.|Implemented|
-|HR_05|Decrease Frequency and severity of human errors.|Implemented|
+|HR_01|Enhanced Ability of system components to be validated|Implemented|
+|HR_02|Reduce Labor-intensity of process|Implemented|
+|HR_03|Maintained Privacy of case-related data|Implemented|
+|HR_04|Safeguard Integrity of reported results|Implemented|
+|HR_05|Decrease Frequency and severity of human errors|Implemented|
 |HR_06|Reverse Engineering and Code Analysis|Future|
 |HR_07||Future|
 
@@ -70,23 +70,23 @@ In return, the MRT provides the following:
 |      ID          |Description                          |  HLR_ID  |Status               |
 |----------------|-------------------------------|----------|-----------------------------|
 |LR_01|Multiple Scanning Tools|HR_01|Implemented|
-|LR_02|Virtualization|HR_01|Implemented|
+|LR_02|Virtualization - Allows multiple operating systems to execute within a host operating system|HR_01|Implemented|
 |LR_03|Virtual Disks|HR_01|Implemented|
-|LR_04|Virtualization|HR_03|Implemented|
-|LR_05|virtualization|HR_04|Implemented|
-|LR_06|Square Meter|HR_02|Implemented|
-|LR_07|Square Centimeter|HR_02|Implemented|
+|LR_04|Virtualization - Isolates the virtualized “guest” operating systems from each other as well as from the host|HR_03|Implemented|
+|LR_05|Virtualization - A disk image representing a bit-for-bit copy of the original media is used|HR_04|Implemented|
+|LR_06|Testable Tools|HR_01|Implemented|
+|LR_07|Automation - Reduce the repetitive prepare-scan-collect process|HR_02|Implemented|
 |LR_08|Square Foot|HR_02|Implemented|
 |LR_09|MSquare Inch|HR_02|Implemented|
 |LR_10|Square Yard|HR_02|Implemented|
-|LR_11|Cubic Meter|HR_03|Implemented|
+|LR_11|Automation - Prevents human contact with relevant data from the scanning process|HR_03|Implemented|
 |LR_12|Cubic Centimeter|HR_03|Implemented|
 |LR_13|Litre|HR_03|Implemented|
 |LR_14|Millilitre|HR_03|Implemented|
 |LR_15|Gallon (imperial)|HR_03|Implemented|
-|LR_16|Kilogram|HR_04|Implemented|
-|LR_17|Gram|HR_04|Implemented|
-|LR_18|Ounce|HR_04|Implemented|
+|LR_16|Multiple Software Tools for Scanning Reports|HR_04|Implemented|
+|LR_17|Word Processor|HR_04|Implemented|
+|LR_18|Automation - If the data cannot be easily or accidentally accessed by a human, it cannot be easily changed either|HR_04|Implemented|
 |LR_19|Tonne (metric)|HR_04|Implemented|
 |LR_20|Pound|HR_04|Implemented|
 |LR_21|Meter per Second|HR_05|Implemented|

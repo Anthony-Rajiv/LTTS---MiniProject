@@ -54,7 +54,7 @@ In return, the MRT provides the following:
 ## SWOT Analysis
 ![](SWOT.png)
 
-##Detailed Requirements
+## Detailed Requirements
 ### High Level Requirements
 |      ID          |Description                          |Status                         |
 |----------------|-------------------------------|-----------------------------|

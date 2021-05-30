@@ -64,39 +64,41 @@ In return, the MRT provides the following:
 |HR_04|Safeguard Integrity of reported results|Implemented|
 |HR_05|Decrease Frequency and severity of human errors|Implemented|
 |HR_06|Reverse Engineering and Code Analysis|Future|
-|HR_07||Future|
+|HR_07|Case Management System|Future|
+|HR_08|Own Interface|Future|
 
 ### Low Level Requirements
 |      ID          |Description                          |  HLR_ID  |Status               |
 |----------------|-------------------------------|----------|-----------------------------|
-|LR_01|Multiple Scanning Tools|HR_01|Implemented|
-|LR_02|Virtualization - Allows multiple operating systems to execute within a host operating system|HR_01|Implemented|
-|LR_03|Virtual Disks|HR_01|Implemented|
-|LR_04|Virtualization - Isolates the virtualized “guest” operating systems from each other as well as from the host|HR_03|Implemented|
-|LR_05|Virtualization - A disk image representing a bit-for-bit copy of the original media is used|HR_04|Implemented|
-|LR_06|Testable Tools|HR_01|Implemented|
-|LR_07|Automation - Reduce the repetitive prepare-scan-collect process|HR_02|Implemented|
-|LR_08|Square Foot|HR_02|Implemented|
-|LR_09|MSquare Inch|HR_02|Implemented|
-|LR_10|Square Yard|HR_02|Implemented|
-|LR_11|Automation - Prevents human contact with relevant data from the scanning process|HR_03|Implemented|
-|LR_12|Cubic Centimeter|HR_03|Implemented|
-|LR_13|Litre|HR_03|Implemented|
-|LR_14|Millilitre|HR_03|Implemented|
-|LR_15|Gallon (imperial)|HR_03|Implemented|
-|LR_16|Multiple Software Tools for Scanning Reports|HR_04|Implemented|
-|LR_17|Word Processor|HR_04|Implemented|
-|LR_18|Automation - If the data cannot be easily or accidentally accessed by a human, it cannot be easily changed either|HR_04|Implemented|
-|LR_19|Tonne (metric)|HR_04|Implemented|
-|LR_20|Pound|HR_04|Implemented|
-|LR_21|Meter per Second|HR_05|Implemented|
-|LR_22|Kilometer per Hour|HR_05|Implemented|
-|LR_23|Miles per Hour|HR_05|Implemented|
-|LR_24|Foot per Second|HR_05|Implemented|
-|LR_25|Knot|HR_05|Implemented|
-|LR_26|Hour|HR_06|Future|
-|LR_27|Minute|HR_06|Future|
-|LR_28|Second|HR_06|Future|
-|LR_29|Celcius|HR_07|Future|
-|LR_30|Farenheit|HR_07|Future|
-|LR_31|Kelvin|HR_07|Future|
+|LR_01|VM ware|HR_01|Implemented|
+|LR_02|Virtual Disks|HR_01|Implemented|
+|LR_03|Testable Tools|HR_01|Implemented|
+|LR_04|Malware Researchers|HR_01|Implemented|
+|LR_05|System Administrators|HR_01|Implemented|
+|LR_06|Multiple Scanning Tools|HR_01|Implemented|
+|LR_07|Web Based user Interface|HR_01|Implemented|
+|LR_08|Truman Open Source Project|HR_01|Implemented|
+|LR_09|Private Analysis on Local server|HR_01|Implemented|
+|LR_10|Virtualization - Allows multiple operating systems to execute within a host operating system.|HR_01|Implemented|
+|LR_11|Parallel Computation|HR_02|Implemented|
+|LR_12|Multiple Analysis Tools|HR_02|Implemented|
+|LR_13|Automation - Reduce the repetitive prepare-scan-collect process.|HR_02|Implemented|
+|LR_14|Automation - Eliminating the human factor from the process will reduce the possibility of human error.|HR_02|Implemented|
+|LR_15|Automation - Prevents human contact with relevant data from the scanning process.|HR_03|Implemented|
+|LR_16|Virtualization - Isolates the virtualized “guest” operating systems from each other as well as from the host.|HR_03|Implemented|
+|LR_17|File Storage|HR_04|Implemented|
+|LR_18|Word Processor|HR_04|Implemented|
+|LR_19|Multiple Software Tools for Scanning Reports|HR_04|Implemented|
+|LR_20|Virtualization - A disk image representing a bit-for-bit copy of the original media is used.|HR_04|Implemented|
+|LR_21|Automation - If the data cannot be easily or accidentally accessed by a human, it cannot be easily changed either.|HR_04|Implemented|
+|LR_22|Worker Machines|HR_05|Implemented|
+|LR_23|Analysis Coordinator|HR_05|Implemented|
+|LR_24|CASE Tools|HR_06|Future|
+|LR_25|SOAP web service|HR_06|Future|
+|LR_26|Own Private Analysis System|HR_06|Future|
+|LR_27|Hardware for Tracking Analysis Tasks|HR_06|Future|
+|LR_28|Case Management Database System|HR_07|Future|
+|LR_29|Management Interface|HR_08|Future|
+
+## Gantt Chart
+![](Time_Action_Plan.png)

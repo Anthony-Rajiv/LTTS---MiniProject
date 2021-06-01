@@ -1,0 +1,145 @@
+Date: September 11, 1990
+
+Five of the ISCAS'89 benchmark circuits were found to contain errors.
+Specifically, there were several different nodes mapped onto the same name
+resulting in multiply defined nodes. The corrections have been made by adding
+an extra "I" to some node names to differentiate the nodes. The corrections
+are listed below. The files have already been updated.
+
+Questions should be emailed to bryan@mcnc.org or phone (919) 248-1432.
+
+********************************************************************************
+********************************************************************************
+
+Changes to .bench files:
+----------------------------------------------------------
+
+s386.bench: at lines 85 and 162 change I98 to II98.
+s386.bench: at lines 109 and 176 change I65 to II65.
+
+s641.bench: at lines 101 and 128 change I178 to II178.
+s641.bench: at lines 248 and 252 change I476 to II476.
+s641.bench: at lines 257 and 261 change I208 to II208.
+s641.bench: at lines 293 and 296 change I272 to II272.
+s641.bench: at lines 307 and 310 change I287 to II287.
+s641.bench: at lines 347 and 353 change I341 to II341.
+s641.bench: at lines 408 and 418 change I527 to II527.
+s641.bench: at lines 422 and 446 change I538 to II538.
+s641.bench: at lines 438 and 444 change I524 to II524.
+
+s713.bench: at lines 101 and 142 change I178 to II178.
+s713.bench: at lines 247 and 249 change I476 to II476.
+s713.bench: at lines 254, 258 and 464 change I208 to II208.
+s713.bench: at lines 286 and 287 change I272 to II272.
+s713.bench: at lines 294 and 474 change I287 to II287.
+s713.bench: at lines 326, 331 and 478 change I341 to II341.
+s713.bench: at lines 391 and 408 change I527 to II527.
+s713.bench: at lines 399 and 424 change I538 to II538.
+s713.bench: at lines 431 and 434 change I524 to II524.
+s713.bench: at lines 462 and 466 change I335 to II335.
+s713.bench: at lines 470 and 473 change I321 to II321.
+
+s1488.bench: at lines 220 and 556 change I329 to II329.
+s1488.bench: at lines 269 and 577 change I497 to II497.
+s1488.bench: at lines 317 and 597 change I491 to II491.
+s1488.bench: at lines 342 and 612 change I368 to II368.
+s1488.bench: at lines 380 and 630 change I114 to II114.
+s1488.bench: at lines 389 and 674 change I101 to II101.
+s1488.bench: at lines 392 and 635 change I294 to II294.
+s1488.bench: at lines 418 and 651 change I254 to II254.
+s1488.bench: at lines 436 and 664 change I142 to II142.
+
+s1494.bench: at lines 165 and 533 change I497 to II497.
+s1494.bench: at lines 169 and 535 change I491 to II491.
+s1494.bench: at lines 243 and 585 change I368 to II368.
+s1494.bench: at lines 269 and 599 change I329 to II329.
+s1494.bench: at lines 319 and 625 change I254 to II254.
+s1494.bench: at lines 397 and 661 change I142 to II142.
+
+
+********************************************************************************
+********************************************************************************
+
+Changes to .flt files:
+----------------------------------------------------------
+
+s386.flt: at lines 90, 210 and 211 change I65 to II65
+s386.flt: at lines 107, 146 and 171 change I98 to II98
+
+s641.flt: at lines 215, 232, 291, and 328 change I524 to II524
+s641.flt: at lines 218, 296 and 301 change I527 to II527
+s641.flt: at lines 221, 256, 290, 310 and 345 change I538 to II538
+
+s713.flt: at lines 237 and 281 change I208 to II208
+s713.flt: at lines 242, 282, and 323 change I321 to II321
+s713.flt: at lines 249 and 285 change I341 to II341
+s713.flt: at lines 254, 286, and 347 change I335 to II335
+s713.flt: at lines 263, 301, 377, and 420 change I524 to II524
+s713.flt: at lines 272, 384 and 393 change I527 to II527
+s713.flt: at line 273 change I287 to II287
+s713.flt: at lines 276, 342, 385, 404 and 437 change I538 to II538
+
+s1488.flt: at lines 299, 823 and 1365 change I101 to II101
+s1488.flt: at lines 309 and 778 change I114 to II114
+s1488.flt: at lines 334 and 1176 change I142 to II142
+s1488.flt: at lines 418 and 1208 change I254 to II254
+s1488.flt: at lines 447, 732, 1075 and 1135 change I329 to II329
+s1488.flt: at lines 517, 634, 1165 and 1371 change I294 to II294
+s1488.flt: at lines 534, 1012 and 1076 change I368 to II368
+s1488.flt: at lines 557, 932 and 1285 change I491 to II491
+s1488.flt: at lines 574, 972, 1195 and 1222 change I497 to II497
+
+s1494.flt: at lines 334 and 1179 change I142 to II142
+s1494.flt: at lines 417 and 1206 change I254 to II254
+s1494.flt: at lines 453, 773, 1083 and 1158 change I329 to II329
+s1494.flt: at lines 536, 1019 and 1082 change I368 to II368
+s1494.flt: at lines 556, 937 and 1289 change I491 to II491
+s1494.flt: at lines 576, 979, 1041 and 1051 change I497 to II497
+
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+
+Date: January 24, 1991
+
+A total of seven ISCAS'89 benchmark circuits have been modified. Four of the
+seven circuits have been modified to eliminate flip-flops that were unreachable
+by any path starting at the primary inputs. This was accomplished by removing
+selected flip-flops from the circuit and declaring these flip-flop inputs and
+outputs to be primary outputs and inputs, respectively. The affected circuits
+are s9234, s13207, s15850 and s38584. The other three circuits modified are
+digital fraction multipliers that were functionally incorrect. The affected
+circuits are s208, s420 and s838. All seven circuits have been renamed to
+add a .1 suffix to their names. For example, the corrected version of
+s208.bench is named s208.1.bench. The old versions of these circuits will
+no longer be distributed as part of the ISCAS'89 benchmarks.
+
+Questions should be emailed to bryan@mcnc.org or phone (919) 248-1432.
+
+********************************************************************************
+********************************************************************************
+
+Summary of changes:
+-------------------
+
+Were functionally incorrect:
+
+s208.bench 	->	s208.1.bench
+s420.bench 	->	s420.1.bench
+s838.bench 	->	s838.1.bench
+
+s208.flt	->	s208.1.flt
+s420.flt	->	s420.1.flt
+s838.flt	->	s838.1.flt
+
+--------------------------------------
+
+Contained unreachable flip-flops:
+
+s9234.bench 	->	s9234.1.bench
+s13207.bench 	->	s13207.1.bench
+s15850.bench 	->	s15850.1.bench
+s38584.bench 	->	s38584.1.bench
+
+(the .flt files were not changed)

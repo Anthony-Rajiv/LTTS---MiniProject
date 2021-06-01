@@ -1,0 +1,625 @@
+%!PS-Adobe-3.0
+%%BoundingBox: 54 72 558 720
+%%Creator: Mozilla (NetScape) HTML->PS
+%%DocumentData: Clean7Bit
+%%Orientation: Portrait
+%%Pages: 4
+%%PageOrder: Ascend
+%%Title: 
+%%EndComments
+%%BeginProlog
+[ /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+ /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+ /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+ /.notdef /.notdef /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+ /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one
+ /two /three /four /five /six /seven /eight /nine /colon /semicolon
+ /less /equal /greater /question /at /A /B /C /D /E
+ /F /G /H /I /J /K /L /M /N /O
+ /P /Q /R /S /T /U /V /W /X /Y
+ /Z /bracketleft /backslash /bracketright /asciicircum /underscore /quoteleft /a /b /c
+ /d /e /f /g /h /i /j /k /l /m
+ /n /o /p /q /r /s /t /u /v /w
+ /x /y /z /braceleft /bar /braceright /asciitilde /.notdef /.notdef /.notdef
+ /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+ /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+ /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+ /space /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright
+ /ordfeminine /guillemotleft /logicalnot /hyphen /registered /macron /degree /plusminus /twosuperior /threesuperior
+ /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf
+ /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+ /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde
+ /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex
+ /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring
+ /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+ /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave
+ /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis] /isolatin1encoding exch def
+/c { matrix currentmatrix currentpoint translate
+     3 1 roll scale newpath 0 0 1 0 360 arc setmatrix } bind def
+/F0
+    /Times-Roman findfont
+    dup length dict begin
+	{1 index /FID ne {def} {pop pop} ifelse} forall
+	/Encoding isolatin1encoding def
+    currentdict end
+definefont pop
+/f0 { /F0 findfont exch scalefont setfont } bind def
+/F1
+    /Times-Bold findfont
+    dup length dict begin
+	{1 index /FID ne {def} {pop pop} ifelse} forall
+	/Encoding isolatin1encoding def
+    currentdict end
+definefont pop
+/f1 { /F1 findfont exch scalefont setfont } bind def
+/F2
+    /Times-Italic findfont
+    dup length dict begin
+	{1 index /FID ne {def} {pop pop} ifelse} forall
+	/Encoding isolatin1encoding def
+    currentdict end
+definefont pop
+/f2 { /F2 findfont exch scalefont setfont } bind def
+/F3
+    /Times-BoldItalic findfont
+    dup length dict begin
+	{1 index /FID ne {def} {pop pop} ifelse} forall
+	/Encoding isolatin1encoding def
+    currentdict end
+definefont pop
+/f3 { /F3 findfont exch scalefont setfont } bind def
+/F4
+    /Courier findfont
+    dup length dict begin
+	{1 index /FID ne {def} {pop pop} ifelse} forall
+	/Encoding isolatin1encoding def
+    currentdict end
+definefont pop
+/f4 { /F4 findfont exch scalefont setfont } bind def
+/F5
+    /Courier-Bold findfont
+    dup length dict begin
+	{1 index /FID ne {def} {pop pop} ifelse} forall
+	/Encoding isolatin1encoding def
+    currentdict end
+definefont pop
+/f5 { /F5 findfont exch scalefont setfont } bind def
+/F6
+    /Courier-Oblique findfont
+    dup length dict begin
+	{1 index /FID ne {def} {pop pop} ifelse} forall
+	/Encoding isolatin1encoding def
+    currentdict end
+definefont pop
+/f6 { /F6 findfont exch scalefont setfont } bind def
+/F7
+    /Courier-BoldOblique findfont
+    dup length dict begin
+	{1 index /FID ne {def} {pop pop} ifelse} forall
+	/Encoding isolatin1encoding def
+    currentdict end
+definefont pop
+/f7 { /F7 findfont exch scalefont setfont } bind def
+/rhc {
+    {
+        currentfile read {
+	    dup 97 ge
+		{ 87 sub true exit }
+		{ dup 48 ge { 48 sub true exit } { pop } ifelse }
+	    ifelse
+	} {
+	    false
+	    exit
+	} ifelse
+    } loop
+} bind def
+
+/cvgray { % xtra_char npix cvgray - (string npix long)
+    dup string
+    0
+    {
+	rhc { cvr 4.784 mul } { exit } ifelse
+	rhc { cvr 9.392 mul } { exit } ifelse
+	rhc { cvr 1.824 mul } { exit } ifelse
+	add add cvi 3 copy put pop
+	1 add
+	dup 3 index ge { exit } if
+    } loop
+    pop
+    3 -1 roll 0 ne { rhc { pop } if } if
+    exch pop
+} bind def
+
+/smartimage12rgb { % w h b [matrix] smartimage12rgb -
+    /colorimage where {
+	pop
+	{ currentfile rowdata readhexstring pop }
+	false 3
+	colorimage
+    } {
+	exch pop 8 exch
+	3 index 12 mul 8 mod 0 ne { 1 } { 0 } ifelse
+	4 index
+	6 2 roll
+	{ 2 copy cvgray }
+	image
+	pop pop
+    } ifelse
+} def
+/cshow { dup stringwidth pop 2 div neg 0 rmoveto show } bind def
+/rshow { dup stringwidth pop neg 0 rmoveto show } bind def
+/BeginEPSF {
+  /b4_Inc_state save def
+  /dict_count countdictstack def
+  /op_count count 1 sub def
+  userdict begin
+  /showpage {} def
+  0 setgray 0 setlinecap 1 setlinewidth 0 setlinejoin
+  10 setmiterlimit [] 0 setdash newpath
+  /languagelevel where
+  { pop languagelevel 1 ne
+    { false setstrokeadjust false setoverprint } if
+  } if
+} bind def
+/EndEPSF {
+  count op_count sub {pop} repeat
+  countdictstack dict_count sub {end} repeat
+  b4_Inc_state restore
+} bind def
+%%EndProlog
+%%Page: 1 1
+%%BeginPageSetup
+/pagelevel save def
+54 0 translate
+%%EndPageSetup
+newpath 0 72 moveto 504 0 rlineto 0 648 rlineto -504 0 rlineto  closepath clip newpath
+0 711.9 moveto
+10 f4
+(____________________________________________________________________________) show
+0 690.9 moveto
+10 f4
+(============== File: pub/benchmark/ISCAS89/ADDENDUM93/README ===============) show
+0 680.4 moveto
+10 f4
+(____________________________________________________________________________) show
+0 648.9 moveto
+10 f4
+(Addendum to the ISCAS89 Benchmark Directory) show
+0 638.4 moveto
+10 f4
+(===================================================================) show
+0 627.9 moveto
+10 f4
+(Clay Gloster, North Carolina State University, gloster@eos.ncsu.edu) show
+0 596.4 moveto
+10 f4
+(A new benchmark directory \(ISCAS89/ADDENDUM93\) has been generated and added) show
+0 585.9 moveto
+10 f4
+(to the ISCAS89 benchmark set.  The benchmarks in this directory are a set) show
+0 575.4 moveto
+10 f4
+(of sequential circuits similar to the ISCAS89 set, with one distinguishing) show
+0 564.9 moveto
+10 f4
+(feature. The combinational logic between the flip-flops has no single ) show
+0 554.4 moveto
+10 f4
+(redundancies.  Given this property, the benchmark set can be used to) show
+0 543.9 moveto
+10 f4
+(compare without bias several approaches to test generation which aim to) show
+0 533.4 moveto
+10 f4
+(maintain 100% fault coverage of all single stuck-at faults while minimizing) show
+0 522.9 moveto
+10 f4
+(the overhead of full scan, test application time, and test generation time.) show
+0 491.4 moveto
+10 f4
+(It is well known that the scan-based approach not only adds hardware) show
+0 480.9 moveto
+10 f4
+(overhead but can also significantly increase the test application time.) show
+0 470.4 moveto
+10 f4
+(However, an unbiased comparison of various approaches is possible only if) show
+0 459.9 moveto
+10 f4
+(the fault coverage remains the same for any approach taken. Currently,) show
+0 449.4 moveto
+10 f4
+(minimized test length and partial scan solutions in the literature seldom) show
+0 438.9 moveto
+10 f4
+(report fault coverage of 100%, and it is not clear whether the remaining) show
+0 428.4 moveto
+10 f4
+(faults are combinationally or sequentially untestable.) show
+0 396.9 moveto
+10 f4
+(The original version of the benchmark circuit named "prolog" \(s3330\)  has) show
+0 386.4 moveto
+10 f4
+(combinationally  redundant faults.   These were removed by Dr. G. Tromp,) show
+0 375.9 moveto
+10 f4
+(formerly with  the University of Delft  in  The Netherlands. An interesting) show
+0 365.4 moveto
+10 f4
+(problem was identified as a result of  this particular redundancy removal) show
+0 354.9 moveto
+10 f4
+(process. The original circuit benchmark  which included combinational) show
+0 344.4 moveto
+10 f4
+(redundancies, contains 136 flip-flops, or equivalently, 136 pseudo-primary) show
+0 333.9 moveto
+10 f4
+(outputs \(PPOs\) and 136 pseudo-primary input \(PPIs\) . After redundancy) show
+0 323.4 moveto
+10 f4
+(removal, 4 of the PPOs were  removed via circuit pruning, identifying) show
+0 312.9 moveto
+10 f4
+(additional opportunities for pruning of at least one if not more additional) show
+0 302.4 moveto
+10 f4
+(redundant PPIs. This was not performed in the current version of benchmark) show
+0 291.9 moveto
+10 f4
+(and we leave the original circuit  "prolog" in the same directory as a) show
+0 281.4 moveto
+10 f4
+(challenge for further resynthesis and optimization.) show
+0 249.9 moveto
+10 f4
+(While the following list is far from exhaustive, examples of potential uses) show
+0 239.4 moveto
+10 f4
+(for the ISCAS89 addendum benchmark set include: ) show
+0 218.4 moveto
+10 f4
+(1\) Investigation of multiple scan chain configurations while reporting) show
+0 207.9 moveto
+10 f4
+(   minimum test application time for achieving 100% fault coverage.  ) show
+0 186.9 moveto
+10 f4
+(2\) Investigation of a combination of multiple and partial scan where a) show
+0 176.4 moveto
+10 f4
+(   subset of all of the circuit flip-flops are included in several chains) show
+0 165.9 moveto
+10 f4
+(   while reporting minimum test application time for achieving 100% fault) show
+0 155.4 moveto
+10 f4
+(   coverage.) show
+0 134.4 moveto
+10 f4
+(3\) Generation of partitions and orderings of flip-flops and the effects on) show
+0 123.9 moveto
+10 f4
+(   test application time.) show
+0 102.9 moveto
+10 f4
+(4\) Minimum-length test set generation using new sequential test generation) show
+0 92.4 moveto
+10 f4
+(   algorithms while maintaining 100% fault coverage.) show
+pagelevel restore
+showpage
+%%Page: 2 2
+%%BeginPageSetup
+/pagelevel save def
+54 0 translate
+%%EndPageSetup
+newpath 0 72 moveto 504 0 rlineto 0 648 rlineto -504 0 rlineto  closepath clip newpath
+0 711.9 moveto
+10 f4
+(5\) Identification and/or removal of sequentially redundant faults.) show
+0 690.9 moveto
+10 f4
+(6\) Improvement of \(weighted\) random testing strategies for both) show
+0 680.4 moveto
+10 f4
+(   combinational and  sequential circuits while maintaining 100% fault ) show
+0 669.9 moveto
+10 f4
+(   coverage.) show
+0 638.4 moveto
+10 f4
+(A subdirectory \(ISCAS89/ADDENDUM93/TESTPATTERNS\) contains a set of test) show
+0 627.9 moveto
+10 f4
+(patterns and scan chain configurations which have been used to achieve) show
+0 617.4 moveto
+10 f4
+(100% fault coverage. The scan chain configuration file can be used to) show
+0 606.9 moveto
+10 f4
+(describe various single/multiple partial/full scan chain configurations) show
+0 596.4 moveto
+10 f4
+(and allows benchmark users to identify the scan chain order. ) show
+0 575.4 moveto
+10 f4
+(A subdirectory \(ISCAS89/ADDENDUM93/DOCUMENTATION\) lists various LaTex files) show
+0 564.9 moveto
+10 f4
+(that will generate a single document, providing:) show
+0 543.9 moveto
+10 f4
+(1\) further explanation of the data contained in the new benchmark set.) show
+0 522.9 moveto
+10 f4
+(2\) tables which provide additional characteristics of the benchmarks) show
+0 512.4 moveto
+10 f4
+(   circuits.) show
+0 491.4 moveto
+10 f4
+(3\) results obtained with our dynamic scan test generation program, ) show
+0 480.9 moveto
+10 f4
+(   as a guideline to report results with alternative tools.) show
+0 459.9 moveto
+10 f4
+(=============================================================================) show
+0 438.9 moveto
+10 f4
+(-----------------------------------------------------------------------------) show
+0 428.4 moveto
+10 f4
+(ISCAS89/ADDENDUM93 UPDATE                                       July, 7, 1993) show
+0 417.9 moveto
+10 f4
+(-----------------------------------------------------------------------------) show
+0 396.9 moveto
+10 f4
+(It was brought to our notice that the initial benchmark files \(*.bench\)) show
+0 386.4 moveto
+10 f4
+(installed in the ADDENDUM93 directory, contained instances of extra gates) show
+0 375.9 moveto
+10 f4
+(without any outputs. This discrepancy was pointed out by Mr. Thomas Marchok) show
+0 365.4 moveto
+10 f4
+(of Carnegie Mellon University.) show
+0 344.4 moveto
+10 f4
+(Dr. Clay Gloster has examined these files, and it was found that additional) show
+0 333.9 moveto
+10 f4
+(unconnected inverters were added to the original benchmark circuits) show
+0 323.4 moveto
+10 f4
+(during processing. These unwanted inverters have been removed. Also, the) show
+0 312.9 moveto
+10 f4
+(complete set of ISCAS'89-ADDENDUM93 benchmarks was run through the) show
+0 302.4 moveto
+10 f4
+(testability audit program to ensure that no other problems could be found.) show
+0 281.4 moveto
+10 f4
+(All the files with the ".bench" extension in the "ISCAS89/ADDENDUM93/") show
+0 270.9 moveto
+10 f4
+(directory have been corrected, and the LIST, README and tar-files have been) show
+0 260.4 moveto
+10 f4
+(updated. The corrected benchmark files have now been installed for) show
+0 249.9 moveto
+10 f4
+(distribution.) show
+0 239.4 moveto
+10 f4
+( ) show
+0 228.9 moveto
+10 f4
+(Any inconvenience to subscribers who have already accessed the earlier) show
+0 218.4 moveto
+10 f4
+(faulty versions of these benchmark files, is regretted.) show
+0 197.4 moveto
+10 f4
+(____________________________________________________Benchmark_Administrator_) show
+0 176.4 moveto
+10 f4
+(=============================================================================) show
+0 144.9 moveto
+10 f4
+(                        How To Obtain Benchmark Data) show
+0 134.4 moveto
+10 f4
+(                        ============================) show
+0 113.4 moveto
+10 f4
+(The ISCAS89-ADDENDUM93 benchmark data can be obtained  in one of ) show
+0 102.9 moveto
+10 f4
+(two ways: by FTP over Internet or by tape.) show
+0 81.9 moveto
+10 f4
+(1.0 Internet FTP) show
+pagelevel restore
+showpage
+%%Page: 3 3
+%%BeginPageSetup
+/pagelevel save def
+54 0 translate
+%%EndPageSetup
+newpath 0 72 moveto 504 0 rlineto 0 648 rlineto -504 0 rlineto  closepath clip newpath
+0 708.9 moveto
+10 f4
+(If you have access to an Internet connection you may establish an FTP) show
+0 698.4 moveto
+10 f4
+(connection to host "mcnc.org" and copy the files using the "get") show
+0 687.9 moveto
+10 f4
+(command.  The login name is "anonymous" and the password is any string) show
+0 677.4 moveto
+10 f4
+(\(we request that you use your e-mail address\).  The files are in the) show
+0 666.9 moveto
+10 f4
+("/pub/benchmark/ISCAS89/ADDENDUM93" directory.) show
+0 645.9 moveto
+10 f4
+(The command sequence to establish a connection to the host machine is:) show
+0 624.9 moveto
+10 f4
+(        ftp mcnc.mcnc.org) show
+0 614.4 moveto
+10 f4
+(        anonymous       \(in response to the "Name" prompt\)) show
+0 603.9 moveto
+10 f4
+(        \(your id\)       \(in response to the "password" prompt\)) show
+0 572.4 moveto
+10 f4
+(FOR UNIX USERS:) show
+0 551.4 moveto
+10 f4
+(If you have a UNIX machine on the Internet, check to see if you have) show
+0 540.9 moveto
+10 f4
+(the "uncompress" and "tar" commands available.  Shipping the) show
+0 530.4 moveto
+10 f4
+(benchmarks over in a compressed tar format is much faster than in) show
+0 519.9 moveto
+10 f4
+(individual ASCII files. The compressed and tarred benchmark data is) show
+0 509.4 moveto
+10 f4
+(in the file ADDENDUM93.tar.Z.  If you have both commands, then do) show
+0 488.4 moveto
+10 f4
+(        cd pub/benchmark/ISCAS89/ADDENDUM93) show
+0 477.9 moveto
+10 f4
+(        binary) show
+0 467.4 moveto
+10 f4
+(        get ADDENDUM93.tar.Z) show
+0 456.9 moveto
+10 f4
+(        bye) show
+0 435.9 moveto
+10 f4
+(on your local machine, uncompress the file with the commands) show
+0 414.9 moveto
+10 f4
+(        uncompress ADDENDUM93.tar.Z) show
+0 393.9 moveto
+10 f4
+(un-tar the files with the commands) show
+0 372.9 moveto
+10 f4
+(        tar -xvf ADDENDUM93.tar) show
+0 341.4 moveto
+10 f4
+(FOR NON-UNIX USERS:) show
+0 320.4 moveto
+10 f4
+(If you do not have the "compress" and "tar" utilities available,) show
+0 309.9 moveto
+10 f4
+(you will have to copy the files explicitly. The test patterns are) show
+0 299.4 moveto
+10 f4
+(stored under the directory "TESTPATTERNS", and the documentation is ) show
+0 288.9 moveto
+10 f4
+(under "DOCUMENTATION". The actual benchmark circuits are in the ) show
+0 278.4 moveto
+10 f4
+(ISCAS89/ADDENDUM93 directory itself, along with the tarfiles, ) show
+0 267.9 moveto
+10 f4
+(README and LIST files. Total size is about 4.5 mbytes. To retrieve) show
+0 257.4 moveto
+10 f4
+(the files:) show
+0 236.4 moveto
+10 f4
+(        cd pub/benchmark/ISCAS89/ADDENDUM93) show
+0 225.9 moveto
+10 f4
+(        mget *) show
+0 215.4 moveto
+10 f4
+(        cd DOCUMENTATION) show
+0 204.9 moveto
+10 f4
+(        mget *) show
+0 194.4 moveto
+10 f4
+(        cd ../TESTPATTERNS/TSCAN) show
+0 183.9 moveto
+10 f4
+(        mget *) show
+0 173.4 moveto
+10 f4
+(        cd ../TESTPATTERNS/CSCAN) show
+0 162.9 moveto
+10 f4
+(        mget *) show
+0 152.4 moveto
+10 f4
+(        bye) show
+0 120.9 moveto
+10 f4
+(2.0 Benchmarks on Tape.) show
+0 99.9 moveto
+10 f4
+(We are prepared to send you a tape in containing the benchmark) show
+0 89.4 moveto
+10 f4
+(directory in TAR format.) show
+0 78.9 moveto
+10 f4
+(Contact benchmarks@cbl.ncsu.edu for details.) show
+pagelevel restore
+showpage
+%%Page: 4 4
+%%BeginPageSetup
+/pagelevel save def
+54 0 translate
+%%EndPageSetup
+newpath 0 72 moveto 504 0 rlineto 0 648 rlineto -504 0 rlineto  closepath clip newpath
+0 705.9 moveto
+10 f4
+(_________________________________________________________________________) show
+0 684.9 moveto
+10 f4
+(* For further information about benchmarks and how to retrieve them, ) show
+0 674.4 moveto
+10 f4
+(* please contact the Benchmark Administrator by email at ) show
+0 663.9 moveto
+10 f4
+(* "sengupta@cbl.ncsu.edu" or by phone at \(919\) 248-4103.) show
+0 642.9 moveto
+10 f4
+(* For specific information about this \(ISCAS89/ADDENDUM93\) set of) show
+0 632.4 moveto
+10 f4
+(* benchmarks, contact Dr. Clay Gloster, Jr. by email at ) show
+0 621.9 moveto
+10 f4
+(* "gloster@eos.ncsu.edu") show
+0 600.9 moveto
+10 f4
+(==========================================================================) show
+0 590.4 moveto
+10 f4
+(__________________________________________________________________________) show
+pagelevel restore
+showpage
+%%EOF

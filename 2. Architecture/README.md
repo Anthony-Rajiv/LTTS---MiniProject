@@ -3,10 +3,10 @@
 ## Behavior Diagrams
 
 ### High Level Behavioural Diagram
-![High Level Usecase Diagram](https://github.com/Anthony-Rajiv/LTTS---MiniProject/new/main/2.%20Architecture/behavior%20Diagrams/High_Level_Behavior.jpg)
+![High Level Usecase Diagram](https://github.com/Anthony-Rajiv/LTTS---MiniProject/new/main/2.%20Architecture/Behavioral%20Diagrams/System_Diagram_HL.png)
 
 ### Low Level Behavioural Diagram
-![Low Level Usecase Diagram](https://github.com/Anthony-Rajiv/LTTS---MiniProject/new/main/2.%20Architecture/behavior%20Diagrams/Low_Level_Behavior.jpg)
+![Low Level Usecase Diagram](https://github.com/Anthony-Rajiv/LTTS---MiniProject/new/main/2.%20Architecture/Behavioral%20Diagrams/System_Diagram_LL.png)
 
 ## System Diagrams
 
@@ -14,7 +14,7 @@
 ![High Level sys Diagram](https://github.com/Anthony-Rajiv/LTTS---MiniProject/new/main/2.%20Architecture/structure%20Diagrams/HL_sys_diag.jpg)
 
 ### Low Level System Diagram
-![Low Level sys Diagram](https://github.com/Anthony-Rajiv/LTTS---MiniProject/new/main/2.%20Architecture/structure%20Diagrams/LL_sys_diag.jpg)
+![Low Level sys Diagram](https://github.com/Anthony-Rajiv/LTTS---MiniProject/new/main/2.%20Architecture/Behavioral%20Diagrams/System_Diagram_HL.png)
 
 
 ## Tools 

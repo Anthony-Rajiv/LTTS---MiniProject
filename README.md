@@ -5,10 +5,10 @@ Applying System Development Lifecycle on my Final Year Project
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1. Requirements`   | Documents detailing requirements and research
-`2. Design`         | Documents specifying design details
-`3. Implementation` | All code and documentation
-`4. Test and Output`      | Documents with test plans and procedures
+`1. Requirements`   | Documents detailing Requirements
+`2. Architecture`         | Documents specifying Design
+`3. Implementation` | All code and Documentation
+`4. Test and Output`      | Code in Implemenattion section
 `5. Report`    | Detailed Report of the Proof.
 
 ## Contributors List and Summary

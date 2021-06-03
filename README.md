@@ -1,6 +1,8 @@
 # MiniProject
 Applying System Development Lifecycle on my Final Year Project
 
+# Automated Malware Analysis System 
+This system helps hand in hand with The Cyber Crime Department(CCD) who have an interest in finding out which malware exists on the computer and what the role of that malware is, If malware is suspected to have played a role in any Cyber Crime.
 
 ## Folder Structure
 Folder             | Description
